@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jomedi
+- 👋 Hi, I’m Jorge Medina
 - 👀 I’m interested in Back, Front and data analytics
 - 🌱 I’m currently learning optimal algorythms, data science and web programming
 - 💞️ I’m looking to collaborate on any of this aspects
