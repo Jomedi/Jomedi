@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Medina
-- 👀 I’m interested in BackEnd: Java, C++, Spring, Microservices, Cloud
+- 👀 I’m interested in BackEnd and Fullstack areas: Java, Spring Boot, JavaScript, Angular, Python
 - 🌱 I have recently graduated in Software Engineering
 - 💞️ I’m looking to collaborate on any of these aspects!
 - 📫 How to reach me jormedinac96@gmail.com
